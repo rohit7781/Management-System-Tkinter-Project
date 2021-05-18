@@ -27,5 +27,12 @@ Management System build with Tkinter using Python
   <li>Image bug which removes image, when he logout or go back from register page.</li>
   <li><b>Most Important: </b>Update Delete Page, ever time a user delete a record from it.</li>
  </ol>
+ <hr>
+<h3>Screenshots:</h3>
+<img src="screenshots/1.png"></img>
+<img src="screenshots/2.png"></img>
+<img src="screenshots/3.png"></img>
+<img src="screenshots/4.png"></img>
+<img src="screenshots/5.png"></img>
 
 <h3>Thank you for viewing my Project.</h3>
