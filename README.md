@@ -20,8 +20,8 @@ Management System build with Tkinter using Python
 =>import webbrowser<br>
 =>from PIL import ImageTk, Image<br>
 =>from tkcalendar import DateEntry<br>
-
-<hr>Contributions you can do:-</hr>
+<hr>
+<h3>Contributions you can do:-</h3>
 <ol>
   <li>Exception for input fields. such as numeric value, string value.</li>
   <li>Image bug which removes image, when he logout or go back from register page.</li>
