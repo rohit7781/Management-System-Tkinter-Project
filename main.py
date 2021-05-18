@@ -390,7 +390,7 @@ def main():
                 c.execute(f"SELECT * from studentinfo WHERE rollno = '{roll.get()}'")
                 rs = c.fetchall()
                 if rs:
-                    a = messagebox.askyesno("Delete Record", "Are You Sure.")
+                    a = messagebox.askyesno("Delete Record", "Are You Sure?")
                     if a:
                         c.execute(f"DELETE FROM studentinfo WHERE rollno = '{roll.get()}'")
                         conn.commit()
