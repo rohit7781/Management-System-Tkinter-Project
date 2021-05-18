@@ -87,7 +87,7 @@ def main():
             Button(self, text="Login", cursor="hand2", borderwidth=0, width=29, bg="#536DFE", fg="white",
                    font=("Arial", 15), command=lambda: check(username2.get(), password2.get())).place(relx=0.7,
                                                                                                       rely=0.6)
-            Button(self, text="Register", cursor="hand2", borderwidth=0, width=29, bg="red", fg="white",
+            Button(self, text="Register", cursor="hand2", borderwidth=0, width=29, bg="tomato", fg="white",
                    font=("Arial", 15), command=register).place(relx=0.7, rely=0.68)
             Button(self, text="Show Image", cursor="hand2", borderwidth=0, width=29, bg="skyblue", fg="black",
                    font=("Arial", 15), command=showimage).place(relx=0.7, rely=0.76)
