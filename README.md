@@ -4,7 +4,7 @@ Management System build with Tkinter using Python
 <h3>My SQL setup </h3>
 <ol>
   <li>Change SQL connection in main.py on line 27<br>
-  conn = mysql.connector.connect(host="localhost", user="root", passwd="Sahil@123", database="studentrecord")</li>
+  conn = mysql.connector.connect(host="localhost", user="USER USER NAME", passwd="YOUR PASSWORD", database="studentrecord")</li>
   <li>create database studentrecord;</li>
   <li>With two table : adminrecord & studentinfo<br>
   =>create table adminrecord (username varchar(50), password varchar(50), email varchar(50), mobile int(10));<br>
