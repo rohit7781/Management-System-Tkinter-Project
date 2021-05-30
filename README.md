@@ -33,6 +33,6 @@ Management System build with Tkinter using Python
 <img src="screenshots/2.png"></img>
 <img src="screenshots/3.png"></img>
 <img src="screenshots/4.png"></img>
-<img src="screenshots/5.png"></img>
+
 
 <h3>Thank you for viewing my Project.</h3>
