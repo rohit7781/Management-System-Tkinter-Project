@@ -24,7 +24,7 @@ label2.place(x=55, rely=0)
 def main():
     progress.stop()
     splash_root.destroy()
-    conn = mysql.connector.connect(host="localhost", user="root", passwd="Sahil@123", database="studentrecord")
+    conn = mysql.connector.connect(host="localhost", user="root", passwd="", database="studentrecord")
     c = conn.cursor()
 
     class LoginPage(Frame):
